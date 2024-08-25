@@ -10,8 +10,8 @@
 
 [Click Here For Demo](https://sad-shirley-6ef62f.netlify.com/)
 
-`Username : yogi15moto@gmail.com`
-`password : yogesh`
+`Username : nithyapriya245@gmail.com
+`password : Nithya@@445566$$
 
 ## SCREENSHOTS
 
@@ -34,7 +34,7 @@
 [![Savings](https://i.postimg.cc/WbBNpX8h/SAVINGS-NIGHT-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
 
 #### Settings Night Mode
-[![Settings](https://i.postimg.cc/CLBMVWj3/SETTINGS-NIGHT-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Settings](https://i.postimg.cc/PqtpVdRz/IMG-20240817-192611.jpg)](https://sad-shirley-6ef62f.netlify.com/)
 
 #### Filter Night Mode
 [![Filter Page](https://i.postimg.cc/kM2rDJ8Y/FILTER-NIGHT-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
@@ -58,7 +58,7 @@
 [![Savings](https://i.postimg.cc/fRYwVmq5/SAVINGS-DAY-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
 
 #### Settings Day Mode
-[![Settings](https://i.postimg.cc/59k9TxF5/SETTINGS-DAY-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Settings](https://i.postimg.cc/PqtpVdRz/IMG-20240817-192611.jpg)](https://sad-shirley-6ef62f.netlify.com/)
 
 #### Login Screen
 [![Login Page](https://s25.postimg.cc/jvolgx1tb/login.png)](https://sad-shirley-6ef62f.netlify.com/)
